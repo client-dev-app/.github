@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 
@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# root
+# What are we all about?
 
 The app is a way for developers to find clients and vice versa.
 The app is also a way for developers to find other developers and for clients to find other clients. 
@@ -31,3 +31,6 @@ The backend and frontend are organised in 2 different folders.
 2. Backend
 
 The name is still in progress
+
+## The code
+The frontend and backend is in the private root repo
